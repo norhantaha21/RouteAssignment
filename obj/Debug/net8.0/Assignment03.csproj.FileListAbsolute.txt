@@ -1,0 +1,14 @@
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\bin\Debug\net8.0\Assignment03.exe
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\bin\Debug\net8.0\Assignment03.deps.json
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\bin\Debug\net8.0\Assignment03.runtimeconfig.json
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\bin\Debug\net8.0\Assignment03.dll
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\bin\Debug\net8.0\Assignment03.pdb
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\obj\Debug\net8.0\Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\obj\Debug\net8.0\Assignment03.AssemblyInfoInputs.cache
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\obj\Debug\net8.0\Assignment03.AssemblyInfo.cs
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\obj\Debug\net8.0\Assignment03.csproj.CoreCompileInputs.cache
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\obj\Debug\net8.0\Assignment03.dll
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\obj\Debug\net8.0\refint\Assignment03.dll
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\obj\Debug\net8.0\Assignment03.pdb
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\obj\Debug\net8.0\Assignment03.genruntimeconfig.cache
+C:\Users\Mega Store\source\repos\Assignment03\Assignment03\obj\Debug\net8.0\ref\Assignment03.dll
